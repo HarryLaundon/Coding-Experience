@@ -1,0 +1,97 @@
+body {
+    background-color:#071f32;
+}
+
+#text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.class flex-container {
+    align-content: left;
+}
+
+div { 
+    text-align: left;
+    font-family: 'Franklin Gothic Medium';
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 30;
+    background-color:#4682b4;
+    border-radius: 5px;
+    
+}
+
+#codebar {
+    position: relative 10%;
+    max-width: 250px;
+    max-height: 250px;
+    right: -275px;
+    border: 3px solid #4682b4;
+}
+
+#CODECADEMY {
+    position: relative 10%;
+    max-width: 200px;
+    max-height: 300px;
+    right: -275px;
+    border: 3px solid #4682b4;
+}
+
+#amex {
+    background-color: #008cff;
+    font-style: italic;
+    border-radius: 5px;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #008cff;
+}
+
+h2 { 
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20;
+}
+
+div {
+    font-family: 'Franklin Gothic Medium';
+}
+
+h3 { 
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20;
+}
+
+h4 { 
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20;
+}
+#Redbutton {
+    background-color: crimson;
+    font-style: italic;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+    padding: 5px;
+}
+
+#Bluebutton {
+    background-color: blue;
+    font-style: italic;    
+    color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+    padding: 5px;
+}
+
+footer {
+    color: aliceblue;
+    text-align: left;
+    font-size: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #4682b4;
+    font-style: italic;
+    border-radius: 5px;
+}
